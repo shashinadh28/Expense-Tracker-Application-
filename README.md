@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue 3 Expense Tracker
 
 An expense tracker app built with Vue 3 and the composition API.
@@ -29,3 +30,6 @@ npm run build
 ```
 
 #### License MIT
+=======
+# Expense-Tracker-Application-
+>>>>>>> 5bd1303cd94346fc1b47687c757b41c2b0a8693d
